@@ -5,4 +5,4 @@ Creare un robot di tipo `track3r` di LEGO Mindstorms EV3 ottimizzato per gare di
 Gruppo 4: Mattia Armento, Samuele De Palma, Patrick Xavier Castagna, Domashenko Arsenii
 ## Parte di
 Parte del proggeto "Coding e Robotica" previsto dal PNRR.
-### v.0.0.1
+### v.0.0.2
